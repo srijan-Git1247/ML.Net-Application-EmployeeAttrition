@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EmployeeAttrition": {
+      "commandName": "Project",
+      "commandLineArgs": "predict \"D:\\Machine Learning Projects\\EmployeeAttrition\\input.json\""
+    }
+  }
+}
